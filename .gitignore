@@ -1,0 +1,11 @@
+# Environments
+.venv/
+
+# VS Code
+.vscode/
+
+# Cache Files
+__pycache__
+
+# Competition Files
+jpx_tokyo_market_prediction
