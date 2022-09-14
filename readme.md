@@ -1,2 +1,2 @@
 # JPX-Tokyo-Market-Prediction 
-### In this Repo is demonstrated how a code transform from script to production level
+### I demonstrate in this repo how to transform a code from script to production level

@@ -13,6 +13,8 @@ from sklearn.metrics import mean_squared_error, mean_absolute_error
 from lightgbm import LGBMRegressor
 from decimal import ROUND_HALF_UP, Decimal
 import plotly.figure_factory as ff
+import sys
+sys.path.append('../jpx-tokyo-stock-exchange')
 from env import TRAIN_PATH, STOCK_PATH
 warnings.filterwarnings("ignore")
 
