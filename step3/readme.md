@@ -1,0 +1,3 @@
+# Creating functions for simplifying the code
+
+### In this part we created bunch of functions which simplify the code. The maintenance of code improved as well as we have a better code to understand. If we want to add some extra features, we can add a method to preprocess file. If we want to change the way the function works, then we need to change only that method. We dont need find and replace all occurances in the main code.
